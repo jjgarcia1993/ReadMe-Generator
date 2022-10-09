@@ -3,7 +3,7 @@
     "inquirer": "^8.2.4"
   },
   "name": "m9",
-  "description": "��#\u0000 \u0000R\u0000e\u0000a\u0000d\u0000M\u0000e\u0000-\u0000G\u0000e\u0000n\u0000e\u0000r\u0000a\u0000t\u0000o\u0000r\u0000\r\u0000 \u0000",
+  "description": "A node application that creates a professional readme based on user input",
   "version": "1.0.0",
   "main": "index.js",
   "devDependencies": {},
